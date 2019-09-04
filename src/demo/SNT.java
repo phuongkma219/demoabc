@@ -1,5 +1,7 @@
 package demo;
 
+import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
+
 class SNT {
     int soCanKT;
     boolean ketQua;
@@ -13,5 +15,4 @@ class SNT {
         }
         System.out.println(ketQua);
     }
-
 }

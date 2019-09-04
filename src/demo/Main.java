@@ -18,5 +18,11 @@ public class Main {
         SNT sNT2 = new SNT();
         sNT2.soCanKT = 10;
         sNT2.kiemTra();
+        System.out.println("hello123");
+        System.out.println("đặng thanh phương");
+                System.out.println("đặng thanh phương");
+        System.out.println("đặng thanh phương");
+        System.out.println("đặng thanh phương");
+
     }
 }
